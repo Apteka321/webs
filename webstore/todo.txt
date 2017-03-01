@@ -1,0 +1,3 @@
+-- Fix JSON display to pretty
+-- Have a go hero – adding custom validation to a category
+-- CartRestController 400 error
